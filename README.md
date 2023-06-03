@@ -22,5 +22,5 @@
 - [`nodejs学习笔记`](https://github.com/chenqiuli/nodejs_study)：includes Express,Koa,MongoDB,Mongoose...
 - [`Vue3学习笔记`](https://github.com/chenqiuli/Vue3_study)：includes Vue3 composition API
 - [`TS学习笔记`](https://github.com/chenqiuli/react-ts_study)：react + TS
-- [`小程序学习笔记`](https://github.com/chenqiuli/miniprogram_study)：includes miniprogram development
+- [`小程序学习笔记`](https://github.com/chenqiuli/miniprogram_study)：miniprogram simple development
 <!-- - [`CSS3学习笔记`](https://github.com/chenqiuli/css3_study) -->
