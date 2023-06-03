@@ -16,11 +16,11 @@
 
 ### 👨‍🚒 Study Sharing
 
-- [`react学习笔记`](https://github.com/chenqiuli/react_study)
-- [`umi3学习笔记`](https://github.com/chenqiuli/react-umi3_study)
-- [`umi4学习笔记`](https://github.com/chenqiuli/react-umi4_study)
-- [`nodejs学习笔记`](https://github.com/chenqiuli/nodejs_study)
-- [`Vue3学习笔记`](https://github.com/chenqiuli/Vue3_study)
-- [`TS学习笔记`](https://github.com/chenqiuli/react-ts_study)
-- [`小程序学习笔记`](https://github.com/chenqiuli/miniprogram_study)
+- [`react学习笔记`](https://github.com/chenqiuli/react_study)：inlcudes react hooks,redux,react-router,dva,mobx...
+- [`umi3学习笔记`](https://github.com/chenqiuli/react-umi3_study)： react17 + react router5
+- [`umi4学习笔记`](https://github.com/chenqiuli/react-umi4_study)：react18 + react router6
+- [`nodejs学习笔记`](https://github.com/chenqiuli/nodejs_study)：includes Express,Koa,MongoDB,Mongoose...
+- [`Vue3学习笔记`](https://github.com/chenqiuli/Vue3_study)：includes Vue3 composition API
+- [`TS学习笔记`](https://github.com/chenqiuli/react-ts_study)：react + TS
+- [`小程序学习笔记`](https://github.com/chenqiuli/miniprogram_study)：includes miniprogram development
 <!-- - [`CSS3学习笔记`](https://github.com/chenqiuli/css3_study) -->
