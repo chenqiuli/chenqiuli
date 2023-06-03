@@ -1,5 +1,9 @@
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenqiuli&hide_border=true"> -->
 
+<!-- 访问量 -->
+<img height="0" width="0" src="https://profile-counter.glitch.me/wscats/count.svg" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chenqiuli&show_icons=true&hide_border=true">
+
 ### 👨‍🚒 About me
 
 - 👋 Hi, I'm Chenqiuli.
@@ -7,8 +11,6 @@
 - 🤔 I’m currently coding in Javascript.
 - 📫 Email：sqiulia@163.com
 - ✏️ Blog：https://chenqiuli.github.io/
-
-<img align="center" style="margin-top: -200px;" src="https://github-readme-stats.vercel.app/api?username=chenqiuli&show_icons=true&hide_border=true">
 
 <!-- ### 👨‍🚒 Study Sharing
 
