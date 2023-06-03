@@ -1,6 +1,6 @@
 <!-- 访问量 -->
 <img height="0" width="0" src="https://profile-counter.glitch.me/wscats/count.svg" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenqiuli&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chenqiuli&show_icons=true&hide_border=true">
 
 ### 👨‍🚒 About me
 
@@ -12,7 +12,7 @@
 
 <!-- 拥有技能 -->
 <img height="0" width="0" src="https://profile-counter.glitch.me/wscats/count.svg" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chenqiuli&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenqiuli&hide_border=true">
 
 ### 👨‍🚒 Study Sharing
 
