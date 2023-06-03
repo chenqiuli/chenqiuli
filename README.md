@@ -8,7 +8,7 @@
 - 📫 Email：sqiulia@163.com
 - ✏️ Blog：https://chenqiuli.github.io/
 
-<img align="right" style="margin-top: -200px;" src="https://github-readme-stats.vercel.app/api?username=chenqiuli&show_icons=true&hide_border=true">
+<img align="center" style="margin-top: -200px;" src="https://github-readme-stats.vercel.app/api?username=chenqiuli&show_icons=true&hide_border=true">
 
 <!-- ### 👨‍🚒 Study Sharing
 
