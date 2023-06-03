@@ -1,4 +1,4 @@
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenqiuli&hide_border=true"> -->
+<!-- -->
 
 <!-- 访问量 -->
 <img height="0" width="0" src="https://profile-counter.glitch.me/wscats/count.svg" />
@@ -12,7 +12,11 @@
 - 📫 Email：sqiulia@163.com
 - ✏️ Blog：https://chenqiuli.github.io/
 
-<!-- ### 👨‍🚒 Study Sharing
+<!-- 拥有技能 -->
+<img height="0" width="0" src="https://profile-counter.glitch.me/wscats/count.svg" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenqiuli&hide_border=true">
+
+### 👨‍🚒 Study Sharing
 
 - [`react`](https://github.com/chenqiuli/react_study) react 学习笔记
 - [`umi3`](https://github.com/chenqiuli/react-umi3_study) react17 与 react router5 你没叫我给你看啊，
@@ -20,5 +24,5 @@
 - [`nodejs`](https://github.com/chenqiuli/nodejs_study)
 - [`Vue3`](https://github.com/chenqiuli/Vue3_study)
 - [`TS`](https://github.com/chenqiuli/react-ts_study)
-- [`小程序`](https://github.com/chenqiuli/miniprogram_study) -->
+- [`小程序`](https://github.com/chenqiuli/miniprogram_study)
 <!-- - [`CSS3`](https://github.com/chenqiuli/css3_study) -->
